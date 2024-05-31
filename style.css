@@ -51,7 +51,6 @@ body {
   background-color: var(--color-light-gray);
   font-size: var(--font-size-body-copy);
   width: 100%;
-  max-width: 1440px;
 }
 
 /* Basic Element Styles */
